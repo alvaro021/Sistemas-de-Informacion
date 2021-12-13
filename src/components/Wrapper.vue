@@ -74,7 +74,7 @@
             <ul class="actions">
               <li>
                 <a
-                  href="https://www.instagram.com/impresiones3dtemuco/?hl=es-la"
+                  href="/Catalogo"
                   class="button"
                   >Saber más</a
                 >
