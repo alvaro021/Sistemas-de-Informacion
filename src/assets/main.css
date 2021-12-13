@@ -2317,8 +2317,7 @@ input, select, textarea {
 		appearance: none;
 		background: rgba(255, 255, 255, 0.05);
 		border-radius: 0.25em;
-		border: none;
-		border: solid 1px rgba(255, 255, 255, 0.15);
+		border: solid 1px rgba(0, 0, 0, 0.15);
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -2342,7 +2341,7 @@ input, select, textarea {
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ffffff;
+			border-color: #000000;
 			box-shadow: 0 0 0 1px #ffffff;
 		}
 

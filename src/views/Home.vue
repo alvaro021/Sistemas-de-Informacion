@@ -1,24 +1,32 @@
 <template id="login-form">
   <div class="login-wrapper">
     <div class="login-left">
-      <img height="300" src="../assets/logo.png">
+      <img height="300" src="../assets/logo.png" />
     </div>
     <form class="login-right" @submit.prevent>
       <div class="h2">Pastelería Amazing Grace</div>
       <div class="form-group">
-        <input type="text" id="username" placeholder="Usuario" v-model="username">
-        <label for="username">Username</label>    
+        <input
+          type="text"
+          id="username"
+          placeholder="Usuario"
+          v-model="username"
+        />
+        <label for="username">Username</label>
       </div>
       <div class="form-group">
-        <input type="password" id="Password" placeholder="Contraseña" v-model="password">
-        <label for="Password">Password</label>    
+        <input
+          type="password"
+          id="Password"
+          placeholder="Contraseña"
+          v-model="password"
+        />
+        <label for="Password">Password</label>
       </div>
-      <div class="checkbox-container">
-        <input type="checkbox" v-model="rememberMe">
-        <div class="text-checkbox">Recordarme</div>
-      </div> 
       <div class="button-area">
-        <button class="btn btn-primary pull-right" @click="login()" >Entrar</button>
+        <button class="btn btn-primary pull-right" @click="login()">
+          Entrar
+        </button>
       </div>
     </form>
   </div>
@@ -33,17 +41,17 @@ export default {
     return {
       rememberMe: false,
       username: "",
-      password: ""
+      password: "",
     };
   },
   beforeMount() {
     let init = 1000;
-    setTimeout(function() {
+    setTimeout(function () {
       document.querySelector(".login-wrapper").classList.toggle("open");
       init = 300;
     }, init);
   },
- //Aquí va el método para validar el login
+  //Aquí va el método para validar el login
 };
 </script>
 
@@ -111,16 +119,18 @@ label {
   opacity: 1;
   -webkit-transform: translateY(5px);
   transform: translateY(5px);
-  color: #aaa;
+  color: rgb(0, 0, 0);
   font-weight: 300;
   font-size: 13px;
   letter-spacing: -0.00933333em;
   transition: all 0.2s ease-out;
 }
 input:placeholder-shown + label {
-  opacity: 0;
+  opacity: 0.8;
   -webkit-transform: translateY(15px);
   transform: translateY(15px);
+  color: rgb(211, 211, 211);
+
 }
 .h1 {
   color: #fff;
