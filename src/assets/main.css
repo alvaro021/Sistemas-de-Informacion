@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #312450;
+		background: #c3aef3;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3525,7 +3525,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: linear-gradient(to bottom, rgb(124, 230, 248), rgb(198,240,253));
+		background: linear-gradient(to bottom, rgb(46, 183, 207), rgb(198,240,253));
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3738,7 +3738,7 @@ input, select, textarea {
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
 			border: 0;
-			color: rgba(0, 0, 0, 0.35);
+			color: rgba(0, 0, 0, 0.80);
 			display: block;
 			font-size: 0.6em;
 			font-weight: bold;
