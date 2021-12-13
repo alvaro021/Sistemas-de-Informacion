@@ -20,10 +20,7 @@
     <section id="one" class="wrapper style2 spotlights">
       <section>
         <a href="#" class="image"
-          ><img
-            src="../assets/logo.png"
-            alt=""
-            data-position="center center"
+          ><img src="../assets/logo.png" alt="" data-position="center center"
         /></a>
         <div class="content">
           <div class="inner">
@@ -73,11 +70,7 @@
             </p>
             <ul class="actions">
               <li>
-                <a
-                  href="/Catalogo"
-                  class="button"
-                  >Saber más</a
-                >
+                <a href="/Catalogo" class="button">Saber más</a>
               </li>
             </ul>
           </div>
@@ -91,51 +84,81 @@
         <h2>Nuestros Productos</h2>
         <p>
           Dentro de los productos que podemos ofrecerles, hay variedades para
-          todos los gustos, desde tortas, cupcake, galletas y cajas mixtas, entre
-          otros, con diseños desde un punto de vista tradicional hasta lo quee a 
-          su imaginación se le pudiese ocurrir.
+          todos los gustos, desde tortas, cupcake, galletas y cajas mixtas,
+          entre otros, con diseños desde un punto de vista tradicional hasta lo
+          que a su imaginación se le pudiese ocurrir.
         </p>
         <div class="features">
           <section>
             <span class="icon solid major fa-code"></span>
-            <h3>Galletas</h3>
+            <h3>Box Mix Galletas</h3>
             <p>
-              <img height="400" src="../assets/Imagen1.png" alt="" data-position="25% 25%"/>
+              <img
+                height="400"
+                src="../assets/Imagen1.png"
+                alt=""
+                data-position="25% 25%"
+              />
             </p>
           </section>
           <section>
             <span class="icon solid major fa-lock"></span>
-            <h3>Torta</h3>
+            <h3>Torta Letter Cake</h3>
             <p>
-             <img height="400" src="../assets/Imagen2.png" alt="" data-position="25% 25%"/>
+              <img
+                height="400"
+                src="../assets/Imagen2.png"
+                alt=""
+                data-position="25% 25%"
+              />
             </p>
           </section>
           <section>
             <span class="icon solid major fa-cog"></span>
-            <h3>Caja Mixta</h3>
+            <h3>Mix de Degustaciones</h3>
             <p>
-              <img height="400" src="../assets/Imagen3.png" alt="" data-position="25% 25%"/>
+              <img
+                height="400"
+                src="../assets/Imagen3.png"
+                alt=""
+                data-position="25% 25%"
+              />
             </p>
           </section>
           <section>
             <span class="icon solid major fa-desktop"></span>
-            <h3>Alfajores</h3>
+            <h3>Alfajores De Maicena</h3>
             <p>
-              <img height="400" src="../assets/Imagen4.png" alt="" data-position="25% 25%"/>
+              <img
+                height="400"
+                src="../assets/Imagen4.png"
+                alt=""
+                data-position="25% 25%"
+              />
             </p>
           </section>
           <section>
             <span class="icon solid major fa-link"></span>
-            <h3>Torta</h3>
+            <h3>Torta Mario World</h3>
             <p>
-              <img height="400" src="../assets/Imagen5.png" alt="" data-position="25% 25%"/>
+              <img
+                height="400"
+                src="../assets/Imagen5.png"
+                alt=""
+                data-position="25% 25%"
+              />
             </p>
           </section>
           <section>
             <span class="icon major fa-gem"></span>
-            <h3>Torta</h3>
+            <h3>Torta Nutella/Chocolate</h3>
             <p>
-              <img height="400" src="../assets/Imagen6.png" alt="" data-position="25% 25%"/>
+              <img
+                height="400"
+                src="../assets/Imagen6.png"
+                alt=""
+                data-position="25% 25%"
+              />
             </p>
           </section>
         </div>
@@ -146,7 +169,7 @@
     <section id="three" class="wrapper style4 fade-up">
       <div class="inner">
         <h2>Haz tu Pedido</h2>
-        <p>y lleva el amor a tu casa </p>
+        <p>y lleva el amor a tu casa</p>
         <div class="split style1">
           <section>
             <form method="post" action="#">
