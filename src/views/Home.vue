@@ -12,7 +12,7 @@
           placeholder="Usuario"
           v-model="username"
         />
-        <label for="username">Username</label>
+        <label for="username">Usuario</label>
       </div>
       <div class="form-group">
         <input
@@ -21,7 +21,7 @@
           placeholder="Contraseña"
           v-model="password"
         />
-        <label for="Password">Password</label>
+        <label for="Password">Contraseña</label>
       </div>
       <div class="button-area">
         <a href="/Pedido">
@@ -40,11 +40,13 @@ export default {
   template: "#login-form",
   data() {
     return {
-      rememberMe: false,
+     // rememberMe: false,
       username: "",
       password: "",
     };
   },
+ 
+
   beforeMount() {
     let init = 1000;
     setTimeout(function () {
@@ -131,7 +133,6 @@ input:placeholder-shown + label {
   -webkit-transform: translateY(15px);
   transform: translateY(15px);
   color: rgb(211, 211, 211);
-
 }
 .h1 {
   color: #fff;
