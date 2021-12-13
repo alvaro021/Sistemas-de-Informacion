@@ -201,61 +201,6 @@
               </ul>
             </form>
           </section>
-          <section>
-            <ul class="contact">
-              <li>
-                <h3>Dirección</h3>
-                <span
-                  >los Pablos #2860, condominio FrankFurt II<br />
-                  Temuco, Araucania<br />
-                  Chile</span
-                >
-              </li>
-              <li>
-                <h3>Email</h3>
-                <span>pasteleria.amazing.grace@gmail.com</span>
-              </li>
-              <li>
-                <h3>Whatsapp</h3>
-                <a href="https://api.whatsapp.com/message/IH6GHUEWSIXHP1"
-                  >wa.me/message/IH6GHUEWSIXHP1</a
-                >
-              </li>
-              <li>
-                <h3>Social</h3>
-                <ul class="icons">
-                  <li>
-                    <a
-                      href="https://www.facebook.com/alvaro.Quirozzzz/"
-                      class="icon brands fa-facebook-f"
-                      ><span class="label">Facebook</span></a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://github.com/alvaro021"
-                      class="icon brands fa-github"
-                      ><span class="label">GitHub</span></a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/the_trirok/?hl=es-la"
-                      class="icon brands fa-instagram"
-                      ><span class="label">Instagram</span></a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.linkedin.com/in/alvaro-quiroz-494805217/"
-                      class="icon brands fa-linkedin-in"
-                      ><span class="label">LinkedIn</span></a
-                    >
-                  </li>
-                </ul>
-              </li>
-            </ul>
-          </section>
         </div>
       </div>
     </section>
