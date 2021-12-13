@@ -115,7 +115,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: rgba(255, 255, 255, 0.55);
+		color: rgb(97, 97, 97);
 		font-family: Helvetica, sans-serif,Arial;
 		font-size: 16.5pt;
 		font-weight: normal;
@@ -176,7 +176,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #000000;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -1834,10 +1834,10 @@ input, select, textarea {
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
 		background-color: transparent;
-		border: solid 1px !important;
-		border-color: rgba(255, 255, 255, 0.15) !important;
+		border: solid 3px !important;
+		border-color: rgba(71, 71, 71, 0.55) !important;
 		border-radius: 3em;
-		color: #ffffff !important;
+		color: #5d5d5d !important;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.6em;
@@ -2545,15 +2545,15 @@ input, select, textarea {
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #b2ecf6;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #9beaf8;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #96ebfa;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3241,7 +3241,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #d1b8cc;
+			background-image: url("../assets/Fondo2.png");
 		}
 
 		.wrapper.style1-alt {
@@ -3249,7 +3249,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #0079EB;
+			background: linear-gradient(to right, #96ebfa, #e4f9fd);
 		}
 
 		.wrapper.style2-alt {
@@ -3257,7 +3257,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #00529E;
+			background: linear-gradient(to right, #88e9fa, #e4f9fd);
 		}
 
 		.wrapper.style3-alt {
@@ -3525,7 +3525,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #6abbcf;
+		background: linear-gradient(to bottom, rgb(124, 230, 248), rgb(198,240,253));
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3738,7 +3738,7 @@ input, select, textarea {
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
 			border: 0;
-			color: rgba(255, 255, 255, 0.35);
+			color: rgba(0, 0, 0, 0.35);
 			display: block;
 			font-size: 0.6em;
 			font-weight: bold;
@@ -3762,7 +3762,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: linear-gradient(to right, #241a3b, #ff5fcf);
 			}
 
 			#sidebar nav a:after {

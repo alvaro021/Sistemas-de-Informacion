@@ -21,7 +21,7 @@
       <section>
         <a href="#" class="image"
           ><img
-            src="images/MecanicosYa!.jpg"
+            src="../assets/logo.png"
             alt=""
             data-position="center center"
         /></a>
@@ -44,7 +44,7 @@
       <section>
         <a href="#" class="image"
           ><img
-            src="images/PsicologosTemuco.jpg"
+            src="../assets/quienesSomos.png"
             alt=""
             data-position="top center"
         /></a>
@@ -104,7 +104,7 @@
         <div class="features">
           <section>
             <span class="icon solid major fa-code"></span>
-            <h3>Contenido</h3>
+            <h3>Torta1</h3>
             <p>
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex minus
               cum nostrum, deleniti soluta temporibus laudantium numquam
@@ -114,49 +114,37 @@
           </section>
           <section>
             <span class="icon solid major fa-lock"></span>
-            <h3>MySQL,MariaDB, MongoDB, VoltDB</h3>
+            <h3>Torta2</h3>
             <p>
-              Manejo de diferentes bases de datos relacionales y no
-              relacionales, de acuerdo con el proyecto que se quiera realizar y
-              las necesidades de éste. Trabajo de Bussines Intelligence mediante
-              el procesamiento de datos con herramientas como Pentaho y diseño
-              de almacenes de datos mediante Data Mart.
+             Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga voluptatem earum eius et corrupti dicta atque. Enim, ad impedit, nisi nemo tempora eos quod, maiores ipsum eveniet voluptas harum. Mollitia.
             </p>
           </section>
           <section>
             <span class="icon solid major fa-cog"></span>
-            <h3>Back-end Java</h3>
+            <h3>Torta3</h3>
             <p>
-              Lenguaje principal trabajado a lo largo de todo mi recorrido como
-              estudiante de la profesión informática.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate aspernatur minima adipisci rerum voluptatum? Repellat, fugiat! Maxime laborum recusandae culpa dolores modi ut amet pariatur hic, fugiat nisi, voluptatum magnam.
             </p>
           </section>
           <section>
             <span class="icon solid major fa-desktop"></span>
-            <h3>Front-end HTML 5</h3>
+            <h3>Torta4</h3>
             <p>
-              He trabajado con diferentes herramientas de desarrollo web como
-              HTML 5, framework Blazor, y los ya mencionados Laravel y Vue.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto tempore qui aperiam nam commodi doloremque ab fugiat illum quam numquam, animi illo veniam voluptatibus? Labore minus minima natus cum consectetur.
             </p>
           </section>
           <section>
             <span class="icon solid major fa-link"></span>
-            <h3>Arquitecturas</h3>
+            <h3>Torta5</h3>
             <p>
-              Para proyectos que necesiten los sistemas de tecnologías de la
-              información, he trabajado con arquitecturas de servicios y
-              orientadas a microservicios, además de las ya conocidas
-              arquitecturas monolíticas.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam animi consectetur distinctio provident excepturi odio, voluptatem esse reprehenderit voluptas eaque dolor molestias quisquam iste in nobis atque! Nisi, porro maxime.
             </p>
           </section>
           <section>
             <span class="icon major fa-gem"></span>
-            <h3>Fortalezas</h3>
+            <h3>Torta6</h3>
             <p>
-              Mi principal fortaleza es en relación con los modelos
-              empresariales, con un Minor de Emprendimiento y desarrollo de
-              arquitecturas de software y arquitecturas de negocios completando
-              una educación que abarca todos los aspectos organizacionales.
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, iure omnis cumque repellat sunt voluptatem quasi eaque impedit laudantium. Quidem error laboriosam a repudiandae magni ex magnam debitis consequuntur placeat.
             </p>
           </section>
         </div>
@@ -166,8 +154,8 @@
     <!-- Three -->
     <section id="three" class="wrapper style1 fade-up">
       <div class="inner">
-        <h2>Contacto</h2>
-        <p>Es bueno comunicarnos</p>
+        <h2>Haz tu Pedido</h2>
+        <p>y lleva el amor a tu casa </p>
         <div class="split style1">
           <section>
             <form method="post" action="#">
