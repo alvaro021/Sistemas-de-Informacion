@@ -1,5 +1,11 @@
 <template>
-<body >
+<head>
+		<title>Portafolio Alvaro Quiroz</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+	</head>
+<body class = "is-preload">
    <SideBar />
    <Wrapper />
    <Footer />
