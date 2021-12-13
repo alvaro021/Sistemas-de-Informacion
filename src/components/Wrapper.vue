@@ -61,7 +61,7 @@
       </section>
       <section>
         <a href="#" class="image"
-          ><img src="images/calki.jpg" alt="" data-position="25% 25%"
+          ><img src="../assets/fotoCatalogo.png" alt="" data-position="25% 25%"
         /></a>
         <div class="content">
           <div class="inner">
