@@ -10,8 +10,8 @@
           valor para nosotras entregar productos exclusivos, de calidad, con
           sabores e ingredientes únicos que, sin duda, te encantarán.
         </p>
-        <div class="actions">
-          <li><a href="#one" class="button scrolly">Saber Más</a></li>
+        <div>
+            <a href="#one" class="button scrolly">Saber Más</a>
         </div>
       </div>
     </section>
@@ -26,25 +26,16 @@
           <div class="inner">
             <h2>Instagram</h2>
             <p>Conoce nuestros trabajos realizados.</p>
-            <ul class="actions">
-              <li>
+            <div>
                 <a
                   href="https://www.instagram.com/pasteleria_amazinggrace/?hl=es-la"
                   class="button"
-                  >Ver Más</a
-                >
-              </li>
-            </ul>
+                  >Ver Más</a>
+            </div> 
           </div>
         </div>
       </section>
       <section>
-        <img
-          height="500"
-          src="../assets/quienesSomos.png"
-          alt=""
-          data-position="top center"
-        />
         <div class="content">
           <div class="inner">
             <h2>¿Quiénes somos?</h2>
@@ -55,11 +46,16 @@
             </p>
           </div>
         </div>
+        <img
+          height="500"
+          src="../assets/quienesSomos.png"
+          alt=""
+          data-position="top center"
+        />
       </section>
       <section>
         <a href="#" class="image"
-          ><img src="../assets/fotoCatalogo.png" alt="" data-position="25% 25%"
-        /></a>
+          ><img src="../assets/fotoCatalogo.png" alt="" data-position="25% 25%"></a>
         <div class="content">
           <div class="inner">
             <h2>Nuestro Catálogo</h2>
@@ -68,11 +64,9 @@
               endulces tus momentos especiales, te invitamos a que lo veas y
               diseñemos juntos tu producto ideal.
             </p>
-            <ul class="actions">
-              <li>
-                <a href="/Catalogo" class="button">Saber más</a>
-              </li>
-            </ul>
+            <div>
+              <a href="/Catalogo" class="button">Saber más</a>
+            </div>
           </div>
         </div>
       </section>
