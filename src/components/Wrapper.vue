@@ -204,11 +204,11 @@
               </li>
               <li>
                 <h3>Email</h3>
-                <span>a.quiroz01@ufromail.cl</span>
+                <span>pasteleria.amazing.grace@gmail.com</span>
               </li>
               <li>
-                <h3>Telefono</h3>
-                <span>(+56) 9 9842 0550</span>
+                <h3>Whatsapp</h3>
+                <a href="https://api.whatsapp.com/message/IH6GHUEWSIXHP1">wa.me/message/IH6GHUEWSIXHP1</a>
               </li>
               <li>
                 <h3>Social</h3>
