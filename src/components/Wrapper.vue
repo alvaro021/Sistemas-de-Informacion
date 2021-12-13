@@ -189,11 +189,11 @@
                     <label for="porciones">Cantidad de Porciones</label>
                     <input list="browser2" name="porciones" id="porciones" />
                     <datalist id="browser2">
-                      <option value="2"></option>
-                      <option value="4"></option>
-                      <option value="8"></option>
-					  <option value="16"></option>
-					  <option value="32"></option>
+                      <option value="2 porciones"></option>
+                      <option value="4 porciones"></option>
+                      <option value="8 porciones"></option>
+					  <option value="16 porciones"></option>
+					  <option value="32 porciones"></option>
                     </datalist>
                   </form>
                 </div>
@@ -226,39 +226,6 @@
                 <a href="https://api.whatsapp.com/message/IH6GHUEWSIXHP1"
                   >wa.me/message/IH6GHUEWSIXHP1</a
                 >
-              </li>
-              <li>
-                <h3>Social</h3>
-                <ul class="icons">
-                  <li>
-                    <a
-                      href="https://www.facebook.com/alvaro.Quirozzzz/"
-                      class="icon brands fa-facebook-f"
-                      ><span class="label">Facebook</span></a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://github.com/alvaro021"
-                      class="icon brands fa-github"
-                      ><span class="label">GitHub</span></a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/the_trirok/?hl=es-la"
-                      class="icon brands fa-instagram"
-                      ><span class="label">Instagram</span></a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.linkedin.com/in/alvaro-quiroz-494805217/"
-                      class="icon brands fa-linkedin-in"
-                      ><span class="label">LinkedIn</span></a
-                    >
-                  </li>
-                </ul>
               </li>
             </ul>
           </section>
