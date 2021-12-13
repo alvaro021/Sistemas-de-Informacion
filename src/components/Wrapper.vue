@@ -162,8 +162,8 @@
     <!-- Three -->
     <section id="three" class="wrapper style4 fade-up">
       <div class="inner">
-        <h2>Haz tu Pedido</h2>
-        <p>y lleva el amor a tu casa</p>
+        <h2>Hiciste tu pedido?</h2>
+        <p>Completa el formulario para la entrega del producto</p>
         <div class="split style4">
           <section>
             <form method="post" action="#">
@@ -190,6 +190,22 @@
 					  <option value="32 porciones"></option>
                     </datalist>
                   </form>
+				  <form action="/action_page.php" method="get">
+                    <label for="porciones">Id de Producto</label>
+                    <input list="browser2" name="porciones" id="porciones" />
+                    <datalist id="browser2">
+                      <option value="2 porciones"></option>
+                      <option value="4 porciones"></option>
+                      <option value="8 porciones"></option>
+					  <option value="16 porciones"></option>
+					  <option value="32 porciones"></option>
+                    </datalist>
+                  </form>
+				  <form action="">
+					  <label for=""> Dirección De Entrega</label>
+					  <label for=""> Nombre de Quien Recibe</label>
+					  <label for=""> Comuna</label>
+				  </form>
                 </div>
                 <div class="field">
                   <label for="message">Detalles del pedido</label>
