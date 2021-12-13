@@ -156,6 +156,9 @@
             </p>
           </section>
         </div>
+      <div>
+        <a href="/Pedido" class="button">Hacer pedido ahora!</a>
+      </div>
       </div>
     </section>
 
