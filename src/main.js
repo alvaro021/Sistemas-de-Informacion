@@ -5,5 +5,6 @@ import store from './store'
 
 import '@/assets/main.css'
 import '@/assets/noscript.css'
+import '@/assets/fontawesome-all.min.css'
 
 createApp(App).use(store).use(router).mount('#app')

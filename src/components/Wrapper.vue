@@ -4,6 +4,12 @@
     <section id="intro" class="wrapper style1 fullscreen fade-up">
       <div class="inner">
         <h1>Pastelería Amazing Grace</h1>
+        <p>
+          En Amazing Grace nos esforzamos por entregar felicidad en tus días
+          importantes y amamos poder compartir esos días contigo. Es de gran
+          valor para nosotras entregar productos exclusivos, de calidad, con
+          sabores e ingredientes únicos que, sin duda, te encantarán.
+        </p>
         <ul class="actions">
           <li><a href="#one" class="button scrolly">Saber Más</a></li>
         </ul>
@@ -44,12 +50,11 @@
         /></a>
         <div class="content">
           <div class="inner">
-            <h2>Contenido</h2>
+            <h2>¿Quiénes somos?</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi
-              facilis nostrum quam quis nulla ut eos explicabo laboriosam ullam
-              quo, voluptates dolorum labore repudiandae vel ratione enim, quae
-              esse sit.n
+              Somos Katherine (Administradora Gastronómica) y Cristina
+              (Ingeniera Comercial y pastelera autodidacta), dos hermanas
+              amantes de la pastelería quienes están detrás de Amazing Grace.
             </p>
           </div>
         </div>
@@ -60,19 +65,18 @@
         /></a>
         <div class="content">
           <div class="inner">
-            <h2>Contenido</h2>
+            <h2>Nuestro Catálogo</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti
-              voluptas, alias quae dignissimos incidunt architecto, officia
-              dolorum error eos numquam in doloribus totam mollitia suscipit
-              velit aperiam sit? Libero, officia?
+              En este catálogo te mostraremos nuestras propuestas para que
+              endulces tus momentos especiales, te invitamos a que lo veas y
+              diseñemos juntos tu producto ideal.
             </p>
             <ul class="actions">
               <li>
                 <a
                   href="https://www.instagram.com/impresiones3dtemuco/?hl=es-la"
                   class="button"
-                  >Instagram</a
+                  >Saber más</a
                 >
               </li>
             </ul>
@@ -84,7 +88,7 @@
     <!-- Two -->
     <section id="two" class="wrapper style3 fade-up">
       <div class="inner">
-        <h2>Contenido</h2>
+        <h2>Nuestros Productos</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
           blanditiis distinctio accusantium neque autem aperiam eveniet officia

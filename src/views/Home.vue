@@ -24,9 +24,10 @@
         <label for="Password">Password</label>
       </div>
       <div class="button-area">
-        <button class="btn btn-primary pull-right" @click="login()">
-          Entrar
-        </button>
+        <a href="/Pedido">
+         <input class="btn btn-primary pull-right" type = "button" value = "Entrar" />
+        </a>
+        
       </div>
     </form>
   </div>
