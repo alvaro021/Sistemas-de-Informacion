@@ -12,10 +12,10 @@
 							<span>pasteleria.amazing.grace@gmail.com</span>
 						</li>
 						<li>
-							<h3><a href="wa.me/message/IH6GHUEWSIXHP1">WhatsApp</a></h3>
+							<h3><a href="wa.me/message/IH6GHUEWSIXHP1"><img height="35" src="../assets/logoWsp.png"></a></h3>
 						</li>
 						<li>
-							<h3><a href="https://www.instagram.com/pasteleria_amazinggrace/?hl=es-la">Instagram</a></h3>
+							<h3><a href="https://www.instagram.com/pasteleria_amazinggrace/?hl=es-la"><img height="35" src="../assets/logoInstagram.png"></a></h3>
 						</li>
 					</ul>
 				</div>

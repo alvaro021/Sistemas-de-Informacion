@@ -217,28 +217,6 @@
               </ul>
             </form>
           </section>
-          <section>
-            <ul class="contact">
-              <li>
-                <h3>Dirección</h3>
-                <span
-                  >los Pablos #2860, condominio FrankFurt II<br />
-                  Temuco, Araucania<br />
-                  Chile</span
-                >
-              </li>
-              <li>
-                <h3>Email</h3>
-                <span>pasteleria.amazing.grace@gmail.com</span>
-              </li>
-              <li>
-                <h3>Whatsapp</h3>
-                <a href="https://api.whatsapp.com/message/IH6GHUEWSIXHP1"
-                  >wa.me/message/IH6GHUEWSIXHP1</a
-                >
-              </li>
-            </ul>
-          </section>
         </div>
       </div>
     </section>
