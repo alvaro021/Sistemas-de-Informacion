@@ -183,11 +183,11 @@
                     <label for="porciones">Cantidad de Porciones</label>
                     <input list="browser2" name="porciones" id="porciones" />
                     <datalist id="browser2">
-                      <option value="2"></option>
-                      <option value="4"></option>
-                      <option value="8"></option>
-					  <option value="16"></option>
-					  <option value="32"></option>
+                      <option value="2 porciones"></option>
+                      <option value="4 porciones"></option>
+                      <option value="8 porciones"></option>
+					  <option value="16 porciones"></option>
+					  <option value="32 porciones"></option>
                     </datalist>
                   </form>
                 </div>
