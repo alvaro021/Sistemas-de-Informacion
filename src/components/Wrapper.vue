@@ -165,8 +165,8 @@
     <!-- Three -->
     <section id="three" class="wrapper style4 fade-up">
       <div class="inner">
-        <h2>Haz tu Pedido</h2>
-        <p>y lleva el amor a tu casa</p>
+        <h2>Hiciste tu pedido?</h2>
+        <p>Completa el formulario para la entrega del producto</p>
         <div class="split style4">
           <section>
             <form method="post" action="#">
@@ -186,13 +186,29 @@
                     <label for="porciones">Cantidad de Porciones</label>
                     <input list="browser2" name="porciones" id="porciones" />
                     <datalist id="browser2">
-                      <option value="2"></option>
-                      <option value="4"></option>
-                      <option value="8"></option>
-					  <option value="16"></option>
-					  <option value="32"></option>
+                      <option value="2 porciones"></option>
+                      <option value="4 porciones"></option>
+                      <option value="8 porciones"></option>
+					  <option value="16 porciones"></option>
+					  <option value="32 porciones"></option>
                     </datalist>
                   </form>
+				  <form action="/action_page.php" method="get">
+                    <label for="porciones">Id de Producto</label>
+                    <input list="browser2" name="porciones" id="porciones" />
+                    <datalist id="browser2">
+                      <option value="2 porciones"></option>
+                      <option value="4 porciones"></option>
+                      <option value="8 porciones"></option>
+					  <option value="16 porciones"></option>
+					  <option value="32 porciones"></option>
+                    </datalist>
+                  </form>
+				  <form action="">
+					  <label for=""> Dirección De Entrega</label>
+					  <label for=""> Nombre de Quien Recibe</label>
+					  <label for=""> Comuna</label>
+				  </form>
                 </div>
                 <div class="field">
                   <label for="message">Detalles del pedido</label>
@@ -203,61 +219,6 @@
                 <li><a href="" class="button submit">Enviar</a></li>
               </ul>
             </form>
-          </section>
-          <section>
-            <ul class="contact">
-              <li>
-                <h3>Dirección</h3>
-                <span
-                  >los Pablos #2860, condominio FrankFurt II<br />
-                  Temuco, Araucania<br />
-                  Chile</span
-                >
-              </li>
-              <li>
-                <h3>Email</h3>
-                <span>pasteleria.amazing.grace@gmail.com</span>
-              </li>
-              <li>
-                <h3>Whatsapp</h3>
-                <a href="https://api.whatsapp.com/message/IH6GHUEWSIXHP1"
-                  >wa.me/message/IH6GHUEWSIXHP1</a
-                >
-              </li>
-              <li>
-                <h3>Social</h3>
-                <ul class="icons">
-                  <li>
-                    <a
-                      href="https://www.facebook.com/alvaro.Quirozzzz/"
-                      class="icon brands fa-facebook-f"
-                      ><span class="label">Facebook</span></a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://github.com/alvaro021"
-                      class="icon brands fa-github"
-                      ><span class="label">GitHub</span></a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.instagram.com/the_trirok/?hl=es-la"
-                      class="icon brands fa-instagram"
-                      ><span class="label">Instagram</span></a
-                    >
-                  </li>
-                  <li>
-                    <a
-                      href="https://www.linkedin.com/in/alvaro-quiroz-494805217/"
-                      class="icon brands fa-linkedin-in"
-                      ><span class="label">LinkedIn</span></a
-                    >
-                  </li>
-                </ul>
-              </li>
-            </ul>
           </section>
         </div>
       </div>
