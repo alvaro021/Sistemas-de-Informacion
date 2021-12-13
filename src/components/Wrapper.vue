@@ -86,12 +86,12 @@
           Dentro de los productos que podemos ofrecerles, hay variedades para
           todos los gustos, desde tortas, cupcake, galletas y cajas mixtas,
           entre otros, con diseños desde un punto de vista tradicional hasta lo
-          quee a su imaginación se le pudiese ocurrir.
+          que a su imaginación se le pudiese ocurrir.
         </p>
         <div class="features">
           <section>
             <span class="icon solid major fa-code"></span>
-            <h3>Galletas</h3>
+            <h3>Box Mix Galletas</h3>
             <p>
               <img
                 height="400"
@@ -103,7 +103,7 @@
           </section>
           <section>
             <span class="icon solid major fa-lock"></span>
-            <h3>Torta</h3>
+            <h3>Torta Letter Cake</h3>
             <p>
               <img
                 height="400"
@@ -115,7 +115,7 @@
           </section>
           <section>
             <span class="icon solid major fa-cog"></span>
-            <h3>Caja Mixta</h3>
+            <h3>Mix de Degustaciones</h3>
             <p>
               <img
                 height="400"
@@ -127,7 +127,7 @@
           </section>
           <section>
             <span class="icon solid major fa-desktop"></span>
-            <h3>Alfajores</h3>
+            <h3>Alfajores De Maicena</h3>
             <p>
               <img
                 height="400"
@@ -139,7 +139,7 @@
           </section>
           <section>
             <span class="icon solid major fa-link"></span>
-            <h3>Torta</h3>
+            <h3>Torta Mario World</h3>
             <p>
               <img
                 height="400"
@@ -151,7 +151,7 @@
           </section>
           <section>
             <span class="icon major fa-gem"></span>
-            <h3>Torta</h3>
+            <h3>Torta Nutella/Chocolate</h3>
             <p>
               <img
                 height="400"
@@ -166,7 +166,7 @@
     </section>
 
     <!-- Three -->
-    <section id="three" class="wrapper style1 fade-up">
+    <section id="three" class="wrapper style4 fade-up">
       <div class="inner">
         <h2>Haz tu Pedido</h2>
         <p>y lleva el amor a tu casa</p>
@@ -204,11 +204,11 @@
               </li>
               <li>
                 <h3>Email</h3>
-                <span>a.quiroz01@ufromail.cl</span>
+                <span>pasteleria.amazing.grace@gmail.com</span>
               </li>
               <li>
-                <h3>Telefono</h3>
-                <span>(+56) 9 9842 0550</span>
+                <h3>Whatsapp</h3>
+                <a href="https://api.whatsapp.com/message/IH6GHUEWSIXHP1">wa.me/message/IH6GHUEWSIXHP1</a>
               </li>
               <li>
                 <h3>Social</h3>
