@@ -90,61 +90,52 @@
       <div class="inner">
         <h2>Nuestros Productos</h2>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi,
-          blanditiis distinctio accusantium neque autem aperiam eveniet officia
-          fuga ratione. Aspernatur quisquam porro eos, placeat voluptatibus
-          excepturi fugit quae quibusdam exercitationem.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
-          laboriosam odit obcaecati quaerat delectus rerum odio voluptates
-          deserunt molestiae? Rerum accusantium quos expedita fugit culpa
-          consequuntur aspernatur laborum corporis maxime.
+          Dentro de los productos que podemos ofrecerles, hay variedades para
+          todos los gustos, desde tortas, cupcake, galletas y cajas mixtas, entre
+          otros, con diseños desde un punto de vista tradicional hasta lo quee a 
+          su imaginación se le pudiese ocurrir.
         </p>
         <div class="features">
           <section>
             <span class="icon solid major fa-code"></span>
-            <h3>Torta1</h3>
+            <h3>Galletas</h3>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex minus
-              cum nostrum, deleniti soluta temporibus laudantium numquam
-              sapiente, quam ab itaque reprehenderit dignissimos debitis aut
-              obcaecati officiis aspernatur. Alias, illum?
+              <img height="400" src="../assets/Imagen1.png" alt="" data-position="25% 25%"/>
             </p>
           </section>
           <section>
             <span class="icon solid major fa-lock"></span>
-            <h3>Torta2</h3>
+            <h3>Torta</h3>
             <p>
-             Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga voluptatem earum eius et corrupti dicta atque. Enim, ad impedit, nisi nemo tempora eos quod, maiores ipsum eveniet voluptas harum. Mollitia.
+             <img height="400" src="../assets/Imagen2.png" alt="" data-position="25% 25%"/>
             </p>
           </section>
           <section>
             <span class="icon solid major fa-cog"></span>
-            <h3>Torta3</h3>
+            <h3>Caja Mixta</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate aspernatur minima adipisci rerum voluptatum? Repellat, fugiat! Maxime laborum recusandae culpa dolores modi ut amet pariatur hic, fugiat nisi, voluptatum magnam.
+              <img height="400" src="../assets/Imagen3.png" alt="" data-position="25% 25%"/>
             </p>
           </section>
           <section>
             <span class="icon solid major fa-desktop"></span>
-            <h3>Torta4</h3>
+            <h3>Alfajores</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto tempore qui aperiam nam commodi doloremque ab fugiat illum quam numquam, animi illo veniam voluptatibus? Labore minus minima natus cum consectetur.
+              <img height="400" src="../assets/Imagen4.png" alt="" data-position="25% 25%"/>
             </p>
           </section>
           <section>
             <span class="icon solid major fa-link"></span>
-            <h3>Torta5</h3>
+            <h3>Torta</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam animi consectetur distinctio provident excepturi odio, voluptatem esse reprehenderit voluptas eaque dolor molestias quisquam iste in nobis atque! Nisi, porro maxime.
+              <img height="400" src="../assets/Imagen5.png" alt="" data-position="25% 25%"/>
             </p>
           </section>
           <section>
             <span class="icon major fa-gem"></span>
-            <h3>Torta6</h3>
+            <h3>Torta</h3>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, iure omnis cumque repellat sunt voluptatem quasi eaque impedit laudantium. Quidem error laboriosam a repudiandae magni ex magnam debitis consequuntur placeat.
+              <img height="400" src="../assets/Imagen6.png" alt="" data-position="25% 25%"/>
             </p>
           </section>
         </div>
