@@ -2559,6 +2559,14 @@ input, select, textarea {
 				.wrapper.style3-alt .icon.major:before {
 					color: #953d75;
 				}
+				.wrapper.style4 .icon.major:before {
+					color: #f5d2f7;
+				}
+
+				.wrapper.style4-alt .icon.major:before {
+					color: #f5d2f7;
+				}
+
 
 /* Image */
 
@@ -3262,6 +3270,13 @@ input, select, textarea {
 
 		.wrapper.style3-alt {
 			background-color: #953d75;
+		}
+		.wrapper.style4 {
+			background-image: url("../assets/Fondo2.png");
+		}
+
+		.wrapper.style4-alt {
+			background-color: #757575;
 		}
 
 		.wrapper.fullscreen {

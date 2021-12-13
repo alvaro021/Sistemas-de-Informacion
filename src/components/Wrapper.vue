@@ -152,7 +152,7 @@
     </section>
 
     <!-- Three -->
-    <section id="three" class="wrapper style1 fade-up">
+    <section id="three" class="wrapper style4 fade-up">
       <div class="inner">
         <h2>Haz tu Pedido</h2>
         <p>y lleva el amor a tu casa </p>
