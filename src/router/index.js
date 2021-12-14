@@ -1,4 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
+import LoginForm from '../views/Login.vue'
+import PedidoCliente from '../views/Pedidos.vue'
 
 const routes = [
   {
@@ -9,10 +11,7 @@ const routes = [
   {
     path: '/Login',
     name: 'Login',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/Login.vue')
+    component: LoginForm
   },
   {
     path: '/Catalogo',
@@ -25,10 +24,7 @@ const routes = [
   {
     path: '/Pedidos',
     name: 'Pedidos',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import('../views/Pedidos.vue')
+    component: PedidoCliente
   },
   {
     path: '/DatosDePedidos',

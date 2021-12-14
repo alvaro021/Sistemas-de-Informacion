@@ -1,4 +1,4 @@
-<template>
+<template id="pedido-cliente">
 <head>
 		<title>Amazin Grace Pastelería</title>
 		<meta charset="utf-8" />
@@ -16,7 +16,8 @@ import SideBar from "@/components/SideBar.vue";
 import Pedido from "@/components/Pedido.vue";
 import Footer from "@/components/Footer.vue";
 export default {
- name: "Pedidos",
+ name: "PedidoCliente",
+ template: "#pedido-cliente",
   components: {
     SideBar,
     Pedido,
