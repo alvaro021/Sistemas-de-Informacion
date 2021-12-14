@@ -157,77 +157,12 @@
           </section>
         </div>
       <div>
-        <a href="/Pedido" class="button">Hacer pedido ahora!</a>
+        <a href="/Pedidos" class="button">Hacer pedido ahora!</a>
       </div>
       </div>
     </section>
 
     <!-- Three -->
-    <section id="three" class="wrapper style4 fade-up">
-      <div class="inner">
-        <h2>Haz tu Pedido</h2>
-        <p>y lleva el amor a tu casa</p>
-        <div class="split style4">
-          <section>
-            <form method="post" action="#">
-              <div>
-                <div class= "field">
-                  <form action="/action_page.php" method="get">
-                    <label for="tipo">Tipo de Producto</label>
-                    <input list="browsers" name="tipo" id="tipo" />
-                    <datalist id="browsers">
-                      <option value="Torta Tradicional"></option>
-                      <option value="Torta Letter Cake"></option>
-                      <option value="Mix de Galletas"></option>
-					  <option value="Tortas Especiales"></option>
-                    </datalist>
-                  </form>
-				  <form action="/action_page.php" method="get">
-                    <label for="porciones">Cantidad de Porciones</label>
-                    <input list="browser2" name="porciones" id="porciones" />
-                    <datalist id="browser2">
-                      <option value="2 porciones"></option>
-                      <option value="4 porciones"></option>
-                      <option value="8 porciones"></option>
-					  <option value="16 porciones"></option>
-					  <option value="32 porciones"></option>
-                    </datalist>
-                  </form>
-                </div>
-                <div class="field">
-                  <label for="message">Detalles del pedido</label>
-                  <textarea name="message" id="message" rows="5"></textarea>
-                </div>
-              </div>
-              <ul class="actions">
-                <li><a href="" class="button submit">Enviar</a></li>
-              </ul>
-            </form>
-          </section>
-          <section>
-            <ul class="contact">
-              <li>
-                <h3>Dirección</h3>
-                <span
-                  >los Pablos #2860, condominio FrankFurt II<br />
-                  Temuco, Araucania<br />
-                  Chile</span
-                >
-              </li>
-              <li>
-                <h3>Email</h3>
-                <span>pasteleria.amazing.grace@gmail.com</span>
-              </li>
-              <li>
-                <h3>Whatsapp</h3>
-                <a href="https://api.whatsapp.com/message/IH6GHUEWSIXHP1"
-                  >wa.me/message/IH6GHUEWSIXHP1</a
-                >
-              </li>
-            </ul>
-          </section>
-        </div>
-      </div>
-    </section>
+    
   </div>
 </template>
